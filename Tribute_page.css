@@ -1,0 +1,14 @@
+body{
+  font-family: 'Poppins', sans-serif;
+}
+footer{
+  background-color: gray;
+  padding: 2px;
+  height: 90px;
+}
+article{
+  background-color: silver;
+}
+.about{
+  background-color: silver;
+}
